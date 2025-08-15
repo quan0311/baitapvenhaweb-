@@ -33,7 +33,7 @@
 </head>
 <body>
 
-    <h1>Chọn những gì mà mình muốn</h1>
+    <h1>Bài tập web</h1>
 
     <a href="?i=1" class="button">Bài 1</a>
     <a href="?i=2" class="button">Bài 2</a>
